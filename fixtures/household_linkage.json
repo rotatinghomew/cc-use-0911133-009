@@ -1,0 +1,3409 @@
+{
+  "schema_version": 1,
+  "seed": 41,
+  "as_of": "2026-08-03",
+  "registrations": [
+    {
+      "registration_id": "resident-000",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-0-unit-0",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-0"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-000",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-0"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-001",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-0-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-0",
+      "members": [
+        "adult-1",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-001",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-0-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-0",
+      "members": [
+        "adult-1",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-002",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-0-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-1",
+      "members": [
+        "adult-2",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-002",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-0-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-1",
+      "members": [
+        "adult-2",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-003",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-0-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-1",
+      "members": [
+        "adult-3"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-003",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-0-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-1",
+      "members": [
+        "adult-3"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-004",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-1-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-2",
+      "members": [
+        "adult-4",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-004",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-1-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-2",
+      "members": [
+        "adult-4",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-005",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-1-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-2",
+      "members": [
+        "adult-0",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-005",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-1-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-2",
+      "members": [
+        "adult-0",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-006",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-1-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-3",
+      "members": [
+        "adult-1"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-006",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-3",
+      "members": [
+        "adult-1"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-007",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-1-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-3",
+      "members": [
+        "adult-2",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-007",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-new-7",
+      "former_addresses": [
+        "lane-1-unit-3"
+      ],
+      "contact_key": "contact-3",
+      "members": [
+        "adult-2",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-008",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-2-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-4",
+      "members": [
+        "adult-3",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-008",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-2-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-4",
+      "members": [
+        "adult-3",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-009",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-2-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-4",
+      "members": [
+        "adult-4"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-009",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-2-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-4",
+      "members": [
+        "adult-4"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-010",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-2-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-5",
+      "members": [
+        "adult-0",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-010",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-2-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-5",
+      "members": [
+        "adult-0",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-011",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-2-unit-3",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-1",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-011",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-2-unit-3",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-1",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-012",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-3-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-6",
+      "members": [
+        "adult-2"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-012",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-6",
+      "members": [
+        "adult-2"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-013",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-3-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-6",
+      "members": [
+        "adult-3",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-013",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-3-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-6",
+      "members": [
+        "adult-3",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-014",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-3-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-7",
+      "members": [
+        "adult-4",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-014",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-new-14",
+      "former_addresses": [],
+      "contact_key": "contact-7",
+      "members": [
+        "adult-4",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-015",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-3-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-7",
+      "members": [
+        "adult-0"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-015",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-3-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-7",
+      "members": [
+        "adult-0"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-016",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-4-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-8",
+      "members": [
+        "adult-1",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-016",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-4-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-8",
+      "members": [
+        "adult-1",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-017",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-4-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-8",
+      "members": [
+        "adult-2",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-017",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-4-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-8",
+      "members": [
+        "adult-2",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-018",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-4-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-9",
+      "members": [
+        "adult-3"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-018",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-9",
+      "members": [
+        "adult-3"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-019",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-4-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-9",
+      "members": [
+        "adult-4",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-019",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-4-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-9",
+      "members": [
+        "adult-4",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-020",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-5-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-10",
+      "members": [
+        "adult-0",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-020",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-5-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-10",
+      "members": [
+        "adult-0",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-021",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-5-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-10",
+      "members": [
+        "adult-1"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-021",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-new-21",
+      "former_addresses": [
+        "lane-5-unit-1"
+      ],
+      "contact_key": "contact-10",
+      "members": [
+        "adult-1"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-022",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-5-unit-2",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-2",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-022",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-5-unit-2",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-2",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-023",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-5-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-11",
+      "members": [
+        "adult-3",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-023",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-5-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-11",
+      "members": [
+        "adult-3",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-024",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-6-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-12",
+      "members": [
+        "adult-4"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-024",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-12",
+      "members": [
+        "adult-4"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-025",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-6-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-12",
+      "members": [
+        "adult-0",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-025",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-6-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-12",
+      "members": [
+        "adult-0",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-026",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-6-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-13",
+      "members": [
+        "adult-1",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-026",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-6-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-13",
+      "members": [
+        "adult-1",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-027",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-6-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-13",
+      "members": [
+        "adult-2"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-027",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-6-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-13",
+      "members": [
+        "adult-2"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-028",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-7-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-14",
+      "members": [
+        "adult-3",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-028",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-new-28",
+      "former_addresses": [],
+      "contact_key": "contact-14",
+      "members": [
+        "adult-3",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-029",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-7-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-14",
+      "members": [
+        "adult-4",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-029",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-7-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-14",
+      "members": [
+        "adult-4",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-030",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-7-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-15",
+      "members": [
+        "adult-0"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-030",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-15",
+      "members": [
+        "adult-0"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-031",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-7-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-15",
+      "members": [
+        "adult-1",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-031",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-7-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-15",
+      "members": [
+        "adult-1",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-032",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-8-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-16",
+      "members": [
+        "adult-2",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-032",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-8-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-16",
+      "members": [
+        "adult-2",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-033",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-8-unit-1",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-3"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-033",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-8-unit-1",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-3"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-034",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-8-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-17",
+      "members": [
+        "adult-4",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-034",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-8-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-17",
+      "members": [
+        "adult-4",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-035",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-8-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-17",
+      "members": [
+        "adult-0",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-035",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-new-35",
+      "former_addresses": [
+        "lane-8-unit-3"
+      ],
+      "contact_key": "contact-17",
+      "members": [
+        "adult-0",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-036",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-9-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-18",
+      "members": [
+        "adult-1"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-036",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-18",
+      "members": [
+        "adult-1"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-037",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-9-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-18",
+      "members": [
+        "adult-2",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-037",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-9-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-18",
+      "members": [
+        "adult-2",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-038",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-9-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-19",
+      "members": [
+        "adult-3",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-038",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-9-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-19",
+      "members": [
+        "adult-3",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-039",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-9-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-19",
+      "members": [
+        "adult-4"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-039",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-9-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-19",
+      "members": [
+        "adult-4"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-040",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-10-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-20",
+      "members": [
+        "adult-0",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-040",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-10-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-20",
+      "members": [
+        "adult-0",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-041",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-10-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-20",
+      "members": [
+        "adult-1",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-041",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-10-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-20",
+      "members": [
+        "adult-1",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-042",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-10-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-21",
+      "members": [
+        "adult-2"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-042",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-21",
+      "members": [
+        "adult-2"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-043",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-10-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-21",
+      "members": [
+        "adult-3",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-043",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-10-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-21",
+      "members": [
+        "adult-3",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-044",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-11-unit-0",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-4",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-044",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-11-unit-0",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-4",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-045",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-11-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-22",
+      "members": [
+        "adult-0"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-045",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-11-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-22",
+      "members": [
+        "adult-0"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-046",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-11-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-23",
+      "members": [
+        "adult-1",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-046",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-11-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-23",
+      "members": [
+        "adult-1",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-047",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-11-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-23",
+      "members": [
+        "adult-2",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-047",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-11-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-23",
+      "members": [
+        "adult-2",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-048",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-12-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-24",
+      "members": [
+        "adult-3"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-048",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-24",
+      "members": [
+        "adult-3"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-049",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-12-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-24",
+      "members": [
+        "adult-4",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "temporary-049",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-new-49",
+      "former_addresses": [
+        "lane-12-unit-1"
+      ],
+      "contact_key": "contact-24",
+      "members": [
+        "adult-4",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "resident-050",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-12-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-25",
+      "members": [
+        "adult-0",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-050",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-12-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-25",
+      "members": [
+        "adult-0",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-051",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-12-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-25",
+      "members": [
+        "adult-1"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-051",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-12-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-25",
+      "members": [
+        "adult-1"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-052",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-13-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-26",
+      "members": [
+        "adult-2",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-052",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-13-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-26",
+      "members": [
+        "adult-2",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-053",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-13-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-26",
+      "members": [
+        "adult-3",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-053",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-13-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-26",
+      "members": [
+        "adult-3",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-054",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-13-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-27",
+      "members": [
+        "adult-4"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-054",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-27",
+      "members": [
+        "adult-4"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-055",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-13-unit-3",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-0",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-055",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-13-unit-3",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-0",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-056",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-14-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-28",
+      "members": [
+        "adult-1",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-056",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-new-56",
+      "former_addresses": [],
+      "contact_key": "contact-28",
+      "members": [
+        "adult-1",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-057",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-14-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-28",
+      "members": [
+        "adult-2"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-057",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-14-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-28",
+      "members": [
+        "adult-2"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-058",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-14-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-29",
+      "members": [
+        "adult-3",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-058",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-14-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-29",
+      "members": [
+        "adult-3",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-059",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-14-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-29",
+      "members": [
+        "adult-4",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-059",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-14-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-29",
+      "members": [
+        "adult-4",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-060",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-15-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-30",
+      "members": [
+        "adult-0"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-060",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-30",
+      "members": [
+        "adult-0"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-061",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-15-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-30",
+      "members": [
+        "adult-1",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-061",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-15-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-30",
+      "members": [
+        "adult-1",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-062",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-15-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-31",
+      "members": [
+        "adult-2",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-062",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-15-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-31",
+      "members": [
+        "adult-2",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-063",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-15-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-31",
+      "members": [
+        "adult-3"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-063",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-new-63",
+      "former_addresses": [
+        "lane-15-unit-3"
+      ],
+      "contact_key": "contact-31",
+      "members": [
+        "adult-3"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-064",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-16-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-32",
+      "members": [
+        "adult-4",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-064",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-16-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-32",
+      "members": [
+        "adult-4",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-065",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-16-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-32",
+      "members": [
+        "adult-0",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-065",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-16-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-32",
+      "members": [
+        "adult-0",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-066",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-16-unit-2",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-1"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-066",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-1"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-067",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-16-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-33",
+      "members": [
+        "adult-2",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-067",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-16-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-33",
+      "members": [
+        "adult-2",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-068",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-17-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-34",
+      "members": [
+        "adult-3",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-068",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-17-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-34",
+      "members": [
+        "adult-3",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-069",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-17-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-34",
+      "members": [
+        "adult-4"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-069",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-17-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-34",
+      "members": [
+        "adult-4"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-070",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-17-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-35",
+      "members": [
+        "adult-0",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-070",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-new-70",
+      "former_addresses": [],
+      "contact_key": "contact-35",
+      "members": [
+        "adult-0",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-071",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-17-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-35",
+      "members": [
+        "adult-1",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-071",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-17-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-35",
+      "members": [
+        "adult-1",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-072",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-18-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-36",
+      "members": [
+        "adult-2"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-072",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-36",
+      "members": [
+        "adult-2"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-073",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-18-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-36",
+      "members": [
+        "adult-3",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-073",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-18-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-36",
+      "members": [
+        "adult-3",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-074",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-18-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-37",
+      "members": [
+        "adult-4",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-074",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-18-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-37",
+      "members": [
+        "adult-4",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-075",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-18-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-37",
+      "members": [
+        "adult-0"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-075",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-18-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-37",
+      "members": [
+        "adult-0"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-076",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-19-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-38",
+      "members": [
+        "adult-1",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-076",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-19-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-38",
+      "members": [
+        "adult-1",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-077",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-19-unit-1",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-2",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-077",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-new-77",
+      "former_addresses": [
+        "lane-19-unit-1"
+      ],
+      "contact_key": null,
+      "members": [
+        "adult-2",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-078",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-19-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-39",
+      "members": [
+        "adult-3"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-078",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-39",
+      "members": [
+        "adult-3"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-079",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-19-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-39",
+      "members": [
+        "adult-4",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-079",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-19-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-39",
+      "members": [
+        "adult-4",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-080",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-20-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-40",
+      "members": [
+        "adult-0",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-080",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-20-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-40",
+      "members": [
+        "adult-0",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-081",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-20-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-40",
+      "members": [
+        "adult-1"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-081",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-20-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-40",
+      "members": [
+        "adult-1"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-082",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-20-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-41",
+      "members": [
+        "adult-2",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-082",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-20-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-41",
+      "members": [
+        "adult-2",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-083",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-20-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-41",
+      "members": [
+        "adult-3",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-083",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-20-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-41",
+      "members": [
+        "adult-3",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-084",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-21-unit-0",
+      "former_addresses": [],
+      "contact_key": "contact-42",
+      "members": [
+        "adult-4"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-084",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": null,
+      "former_addresses": [],
+      "contact_key": "contact-42",
+      "members": [
+        "adult-4"
+      ],
+      "size": 1,
+      "vehicle_need": "accessible",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-085",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-21-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-42",
+      "members": [
+        "adult-0",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-085",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-21-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-42",
+      "members": [
+        "adult-0",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-086",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-21-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-43",
+      "members": [
+        "adult-1",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-086",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-21-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-43",
+      "members": [
+        "adult-1",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-087",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-21-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-43",
+      "members": [
+        "adult-2"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-087",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-21-unit-3",
+      "former_addresses": [],
+      "contact_key": "contact-43",
+      "members": [
+        "adult-2"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-088",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-22-unit-0",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-3",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-088",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-22-unit-0",
+      "former_addresses": [],
+      "contact_key": null,
+      "members": [
+        "adult-3",
+        "child-1"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "resident-089",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-22-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-44",
+      "members": [
+        "adult-4",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "temporary-089",
+      "source": "temporary",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-22-unit-1",
+      "former_addresses": [],
+      "contact_key": "contact-44",
+      "members": [
+        "adult-4",
+        "child-2"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "validation"
+    },
+    {
+      "registration_id": "historic-household",
+      "source": "resident",
+      "observed_at": "2025-08-01",
+      "valid_from": "2025-01-01",
+      "valid_until": "2026-01-01",
+      "address": "lane-0-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-1",
+      "members": [
+        "split-a",
+        "split-b"
+      ],
+      "size": 2,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "split-household-a",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-0-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-1",
+      "members": [
+        "split-a"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    },
+    {
+      "registration_id": "split-household-b",
+      "source": "resident",
+      "observed_at": "2026-08-01",
+      "valid_from": "2026-07-01",
+      "valid_until": "2026-09-01",
+      "address": "lane-0-unit-2",
+      "former_addresses": [],
+      "contact_key": "contact-1",
+      "members": [
+        "split-b"
+      ],
+      "size": 1,
+      "vehicle_need": "ordinary",
+      "cohort": "development"
+    }
+  ],
+  "anchors": [
+    {
+      "left": "resident-000",
+      "right": "temporary-000",
+      "same": true,
+      "review_id": "review-0",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-001",
+      "right": "temporary-001",
+      "same": true,
+      "review_id": "review-1",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-002",
+      "right": "temporary-002",
+      "same": true,
+      "review_id": "review-2",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-003",
+      "right": "temporary-003",
+      "same": true,
+      "review_id": "review-3",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-004",
+      "right": "temporary-004",
+      "same": true,
+      "review_id": "review-4",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-005",
+      "right": "temporary-005",
+      "same": true,
+      "review_id": "review-5",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-006",
+      "right": "temporary-006",
+      "same": true,
+      "review_id": "review-6",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-007",
+      "right": "temporary-007",
+      "same": true,
+      "review_id": "review-7",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-008",
+      "right": "temporary-008",
+      "same": true,
+      "review_id": "review-8",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-009",
+      "right": "temporary-009",
+      "same": true,
+      "review_id": "review-9",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-010",
+      "right": "temporary-010",
+      "same": true,
+      "review_id": "review-10",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-011",
+      "right": "temporary-011",
+      "same": true,
+      "review_id": "review-11",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-012",
+      "right": "temporary-012",
+      "same": true,
+      "review_id": "review-12",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-013",
+      "right": "temporary-013",
+      "same": true,
+      "review_id": "review-13",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-014",
+      "right": "temporary-014",
+      "same": true,
+      "review_id": "review-14",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-015",
+      "right": "temporary-015",
+      "same": true,
+      "review_id": "review-15",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-016",
+      "right": "temporary-016",
+      "same": true,
+      "review_id": "review-16",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-017",
+      "right": "temporary-017",
+      "same": true,
+      "review_id": "review-17",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-018",
+      "right": "temporary-018",
+      "same": true,
+      "review_id": "review-18",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-019",
+      "right": "temporary-019",
+      "same": true,
+      "review_id": "review-19",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-020",
+      "right": "temporary-020",
+      "same": true,
+      "review_id": "review-20",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-021",
+      "right": "temporary-021",
+      "same": true,
+      "review_id": "review-21",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-022",
+      "right": "temporary-022",
+      "same": true,
+      "review_id": "review-22",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-023",
+      "right": "temporary-023",
+      "same": true,
+      "review_id": "review-23",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-024",
+      "right": "temporary-024",
+      "same": true,
+      "review_id": "review-24",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-025",
+      "right": "temporary-025",
+      "same": true,
+      "review_id": "review-25",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-026",
+      "right": "temporary-026",
+      "same": true,
+      "review_id": "review-26",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-027",
+      "right": "temporary-027",
+      "same": true,
+      "review_id": "review-27",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-028",
+      "right": "temporary-028",
+      "same": true,
+      "review_id": "review-28",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-029",
+      "right": "temporary-029",
+      "same": true,
+      "review_id": "review-29",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-000",
+      "right": "temporary-001",
+      "same": false,
+      "review_id": "different-0",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-002",
+      "right": "temporary-003",
+      "same": false,
+      "review_id": "different-2",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-004",
+      "right": "temporary-005",
+      "same": false,
+      "review_id": "different-4",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-006",
+      "right": "temporary-007",
+      "same": false,
+      "review_id": "different-6",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-008",
+      "right": "temporary-009",
+      "same": false,
+      "review_id": "different-8",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-010",
+      "right": "temporary-011",
+      "same": false,
+      "review_id": "different-10",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-012",
+      "right": "temporary-013",
+      "same": false,
+      "review_id": "different-12",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-014",
+      "right": "temporary-015",
+      "same": false,
+      "review_id": "different-14",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-016",
+      "right": "temporary-017",
+      "same": false,
+      "review_id": "different-16",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-018",
+      "right": "temporary-019",
+      "same": false,
+      "review_id": "different-18",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-020",
+      "right": "temporary-021",
+      "same": false,
+      "review_id": "different-20",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-022",
+      "right": "temporary-023",
+      "same": false,
+      "review_id": "different-22",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-024",
+      "right": "temporary-025",
+      "same": false,
+      "review_id": "different-24",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-026",
+      "right": "temporary-027",
+      "same": false,
+      "review_id": "different-26",
+      "at": "2026-08-02"
+    },
+    {
+      "left": "resident-028",
+      "right": "temporary-029",
+      "same": false,
+      "review_id": "different-28",
+      "at": "2026-08-02"
+    }
+  ],
+  "review_budget": 6,
+  "conflict_updates": [
+    {
+      "left": "resident-000",
+      "right": "temporary-000",
+      "same": false,
+      "review_id": "conflict-1",
+      "at": "2026-08-03"
+    }
+  ],
+  "split_events": [
+    {
+      "parent": "historic-household",
+      "children": [
+        "split-household-a",
+        "split-household-b"
+      ],
+      "effective_at": "2026-01-01"
+    }
+  ],
+  "vehicle_capacities": {
+    "ordinary": 4,
+    "accessible": 2
+  }
+}

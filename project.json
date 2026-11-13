@@ -1,0 +1,8 @@
+{
+  "package": "vulnerable_transfer_planner",
+  "tests": "tests/transfer_missions",
+  "entrypoint": "vulnerable_transfer_planner.fieldwork.command",
+  "fixture_prefix": [],
+  "database_flag": "--database",
+  "analysis_fixture": "fixtures/household_linkage.json"
+}
